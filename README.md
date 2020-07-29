@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weswu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weswu&theme=dark&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **weswu/weswu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
